@@ -7,5 +7,6 @@ public class MainClass
 	{				
 		System.out.println("wow");
 		System.out.println("Amazing");
+		System.out.println("SPECTATULAR");
 	}
 }
